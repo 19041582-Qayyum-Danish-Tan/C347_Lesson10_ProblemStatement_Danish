@@ -1,0 +1,2 @@
+rootProject.name = "Lesson10_ProblemStatement_Danish"
+include ':app'
